@@ -1,5 +1,7 @@
 # HealthWings-Smart-Navigation-and-Gesture-Controlled-Medical-Drones
-AI- powered autonomous medical drone with real-time tracking &amp; gesture control (AI, Computer Vision, Embedded Systems, Python, ROS); Best Paper Award (IEEE ICMRTET 2025). 
+AI- powered autonomous medical drone with real-time tracking &amp; gesture control (AI, Computer Vision, Embedded Systems, Python, RTOS); Best Paper Award (IEEE ICMRTET 2025). 
+
+## Table of Contents
 
 | Section No. | Title / Description                                      | Page No.    |
 |-------------|-----------------------------------------------------------|-------------|
@@ -27,3 +29,12 @@ AI- powered autonomous medical drone with real-time tracking &amp; gesture contr
 | 9           | Conclusion and Future Scope                               | 32          |
 | -           | References                                                | 35          |
 | -           | Annexures / Certificates / Conference Papers              | 36–38       |
+
+---
+
+## Contributors
+
+- [Tejas S](https://github.com/)
+- [Amar A I](https://github.com/)
+- [Hemanth T](https://github.com/)
+- [Prajwal K S](https://github.com/Prajwalks04)
